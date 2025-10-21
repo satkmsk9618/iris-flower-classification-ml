@@ -1,7 +1,9 @@
 # Iris Flower Classification – Machine Learning Project
 
 This project uses the classic **Iris dataset** to classify flower species (Setosa, Versicolor, Virginica) based on sepal and petal dimensions.  
-It demonstrates a complete **machine learning workflow** —> from data loading and exploration to model training and evaluation —> implemented in Python using popular data science libraries.
+It demonstrates a complete **machine learning workflow** 
+—> from data loading and exploration to model training and evaluation 
+—> implemented in Python using popular data science libraries.
 
 ---------
 
